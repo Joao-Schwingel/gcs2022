@@ -5,10 +5,10 @@ Este é o meu primeiro repositório
 
 #disciplinas que estou cursado agora
   
-  - Banco de daos 1
+ - Banco de daos 1
   
-  - Algoritmos e estrutura de dados
+ - Algoritmos e estrutura de dados
   
-  - Logica de computação
+ - Logica de computação
   
 
