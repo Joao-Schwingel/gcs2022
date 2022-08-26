@@ -1,7 +1,7 @@
 # gcs2022
 Repositório de teses da disciplina de gcs da PUC-RS
 
-Este é o meu primeiro repositório
+Este é o meu **primeiro** repositório
 
 #disciplinas que estou cursado agora
   
@@ -10,5 +10,7 @@ Este é o meu primeiro repositório
  - Algoritmos e estrutura de dados
   
  - Logica de computação
+ 
+ 
   
 
